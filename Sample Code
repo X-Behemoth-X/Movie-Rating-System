@@ -1,0 +1,3 @@
+git add .
+git commit -m "Completed Movie Rating System"
+git push origin main
